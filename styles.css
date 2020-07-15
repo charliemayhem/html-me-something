@@ -1,0 +1,71 @@
+html {
+    background-color: green;
+}
+
+body {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding: 5%;
+    border-top-color: #ff8000;
+    border-left-color: red;
+    border-bottom-color: #ff8000;
+    border-right-color: red;
+    border-width: 2em;
+    border-style: solid;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14pt;
+    line-height: 1.4;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+}
+
+li {
+    margin-top: 1em;
+}
+
+section {
+    margin-bottom: 10%;
+}
+
+img {
+    width: 40%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.float-right {
+    float: right;
+    clear: left;
+    margin-right: 0;
+}
+
+.float-left {
+    float: left;
+    clear: right;
+    margin-left: 0;
+}
+
+#hero {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 2em;
+}
+
+#coin {
+    width: 20%;
+}
